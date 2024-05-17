@@ -1,0 +1,1717 @@
+{
+	"Miami": {
+		"postal_codes": ["33010", "33011", "33012", "33013", "33014", "33015"],
+		"enabled": true
+	},
+	"Orlando": {
+		"postal_codes": ["32801", "32802", "32803", "32804", "32805", "32806"],
+		"enabled": true
+	},
+	"Tampa": {
+		"postal_codes": ["33602", "33603", "33604", "33605", "33606", "33607"],
+		"enabled": true
+	},
+	"Jacksonville": {
+		"postal_codes": ["32202", "32204", "32205", "32206", "32207", "32208"],
+		"enabled": true
+	},
+	"Key West": {
+		"postal_codes": ["33040", "33041", "33042", "33043", "33045"],
+		"enabled": true
+	},
+	"Fort Lauderdale": {
+		"postal_codes": ["33301", "33304", "33305", "33306", "33308", "33309"],
+		"enabled": true
+	},
+	"Naples": {
+		"postal_codes": ["34102", "34103", "34104", "34105", "34108", "34109"],
+		"enabled": true
+	},
+	"Tallahassee": {
+		"postal_codes": ["32301", "32303", "32304", "32305", "32308", "32309"],
+		"enabled": true
+	},
+	"St. Petersburg": {
+		"postal_codes": ["33701", "33702", "33703", "33704", "33705", "33707"],
+		"enabled": true
+	},
+	"Sarasota": {
+		"postal_codes": ["34201", "34202", "34203", "34205", "34207", "34209"],
+		"enabled": true
+	},
+	"West Palm Beach": {
+		"postal_codes": ["33401", "33403", "33404", "33405", "33407", "33409"],
+		"enabled": true
+	},
+	"Gainesville": {
+		"postal_codes": ["32601", "32603", "32605", "32606", "32607", "32608"],
+		"enabled": true
+	},
+	"Daytona Beach": {
+		"postal_codes": ["32114", "32117", "32118", "32119", "32124", "32127"],
+		"enabled": true
+	},
+	"Pensacola": {
+		"postal_codes": ["32501", "32502", "32503", "32504", "32505", "32506"],
+		"enabled": true
+	},
+	"Fort Myers": {
+		"postal_codes": ["33901", "33903", "33905", "33907", "33912", "33916"],
+		"enabled": true
+	},
+	"Boca Raton": {
+		"postal_codes": ["33428", "33431", "33432", "33433", "33434", "33486"],
+		"enabled": true
+	},
+	"Hollywood": {
+		"postal_codes": ["33019", "33020", "33021", "33023", "33024", "33025"],
+		"enabled": true
+	},
+	"Clearwater": {
+		"postal_codes": ["33755", "33756", "33759", "33761", "33763", "33764"],
+		"enabled": true
+	},
+	"Palm Beach Gardens": {
+		"postal_codes": ["33403", "33408", "33410", "33412", "33418", "33420"],
+		"enabled": true
+	},
+	"Cape Coral": {
+		"postal_codes": ["33904", "33909", "33910", "33914", "33915", "33990"],
+		"enabled": true
+	},
+	"Miramar": {
+		"postal_codes": ["33023", "33025", "33027", "33029", "33035", "33054"],
+		"enabled": true
+	},
+	"Gainesville": {
+		"postal_codes": ["32601", "32603", "32605", "32606", "32607", "32608"],
+		"enabled": true
+	},
+	"Coral Springs": {
+		"postal_codes": ["33065", "33067", "33071", "33073", "33076", "33077"],
+		"enabled": true
+	},
+	"Port St. Lucie": {
+		"postal_codes": ["34952", "34953", "34983", "34984", "34986", "34987"],
+		"enabled": true
+	},
+	"Pembroke Pines": {
+		"postal_codes": ["33023", "33024", "33025", "33026", "33027", "33028"],
+		"enabled": true
+	},
+	"Hialeah": {
+		"postal_codes": ["33010", "33012", "33013", "33014", "33015", "33016"],
+		"enabled": true
+	},
+	"Melbourne": {
+		"postal_codes": ["32901", "32903", "32904", "32905", "32907", "32935"],
+		"enabled": true
+	},
+	"Deerfield Beach": {
+		"postal_codes": ["33441", "33442", "33443", "33064", "33069", "33441"],
+		"enabled": true
+	},
+	"Boynton Beach": {
+		"postal_codes": ["33424", "33425", "33426", "33435", "33436", "33437"],
+		"enabled": true
+	},
+	"Lakeland": {
+		"postal_codes": ["33801", "33803", "33805", "33809", "33810", "33813"],
+		"enabled": true
+	},
+	"Weston": {
+		"postal_codes": ["33326", "33327", "33331", "33332", "33301", "33326"],
+		"enabled": true
+	},
+	"Plantation": {
+		"postal_codes": ["33311", "33313", "33317", "33322", "33323", "33324"],
+		"enabled": true
+	},
+	"Sunrise": {
+		"postal_codes": ["33313", "33319", "33322", "33323", "33325", "33326"],
+		"enabled": true
+	},
+	"Miami Beach": {
+		"postal_codes": ["33109", "33119", "33139", "33140", "33141", "33154"],
+		"enabled": true
+	},
+	"Plant City": {
+		"postal_codes": ["33563", "33564", "33565", "33566", "33567", "33568"],
+		"enabled": true
+	},
+	"Fort Pierce": {
+		"postal_codes": ["34945", "34946", "34947", "34948", "34949", "34950"],
+		"enabled": true
+	},
+	"Bradenton": {
+		"postal_codes": ["34201", "34202", "34203", "34205", "34207", "34209"],
+		"enabled": true
+	},
+	"Davie": {
+		"postal_codes": ["33312", "33314", "33317", "33324", "33325", "33326"],
+		"enabled": true
+	},
+	"Ocala": {
+		"postal_codes": ["34470", "34471", "34472", "34473", "34474", "34475"],
+		"enabled": true
+	},
+	"Aventura": {
+		"postal_codes": ["33160", "33180", "33179", "33162", "33181", "33150"],
+		"enabled": true
+	},
+	"Winter Haven": {
+		"postal_codes": ["33880", "33881", "33882", "33883", "33884", "33885"],
+		"enabled": true
+	},
+	"Spring Hill": {
+		"postal_codes": ["34604", "34606", "34607", "34608", "34609", "34610"],
+		"enabled": true
+	},
+	"Largo": {
+		"postal_codes": ["33756", "33759", "33760", "33761", "33762", "33764"],
+		"enabled": true
+	},
+	"Deltona": {
+		"postal_codes": ["32725", "32738", "32739", "32744", "32763", "32764"],
+		"enabled": true
+	},
+	"Port Orange": {
+		"postal_codes": ["32119", "32127", "32128", "32129", "32168", "32169"],
+		"enabled": true
+	},
+	"Wesley Chapel": {
+		"postal_codes": ["33543", "33544", "33545", "33559", "33576", "33545"],
+		"enabled": true
+	},
+	"Clermont": {
+		"postal_codes": ["34711", "34714", "34715", "34736", "34737", "34756"],
+		"enabled": true
+	},
+	"Lehigh Acres": {
+		"postal_codes": ["33936", "33971", "33972", "33973", "33974", "33976"],
+		"enabled": true
+	},
+	"Panama City": {
+		"postal_codes": ["32401", "32403", "32404", "32405", "32408", "32409"],
+		"enabled": true
+	},
+	"Homestead": {
+		"postal_codes": ["33030", "33031", "33032", "33033", "33034", "33035"],
+		"enabled": true
+	},
+	"Bonita Springs": {
+		"postal_codes": ["34133", "34134", "34135", "34136", "34119", "34120"],
+		"enabled": true
+	},
+	"Lake Worth": {
+		"postal_codes": ["33460", "33461", "33462", "33463", "33467", "33449"],
+		"enabled": true
+	},
+	"Lauderhill": {
+		"postal_codes": ["33311", "33313", "33319", "33321", "33323", "33351"],
+		"enabled": true
+	},
+	"Margate": {
+		"postal_codes": ["33063", "33065", "33068", "33073", "33093", "33097"],
+		"enabled": true
+	},
+	"Tamarac": {
+		"postal_codes": ["33309", "33319", "33320", "33321", "33323", "33351"],
+		"enabled": true
+	},
+	"Weston": {
+		"postal_codes": ["33326", "33327", "33331", "33332", "33301", "33326"],
+		"enabled": true
+	},
+	"Melbourne": {
+		"postal_codes": ["32901", "32903", "32904", "32905", "32907", "32935"],
+		"enabled": true
+	},
+	"DeLand": {
+		"postal_codes": ["32720", "32723", "32724", "32738", "32739", "32744"],
+		"enabled": true
+	},
+	"Daytona Beach": {
+		"postal_codes": ["32114", "32117", "32118", "32119", "32124", "32127"],
+		"enabled": true
+	},
+	"North Miami": {
+		"postal_codes": ["33161", "33162", "33163", "33167", "33168", "33169"],
+		"enabled": true
+	},
+	"North Port": {
+		"postal_codes": ["34286", "34287", "34288", "34289", "34291", "34293"],
+		"enabled": true
+	},
+	"Miami Gardens": {
+		"postal_codes": ["33014", "33054", "33055", "33056", "33169", "33179"],
+		"enabled": true
+	},
+	"Ocoee": {
+		"postal_codes": ["34761"],
+		"enabled": true
+	},
+	"Titusville": {
+		"postal_codes": ["32780", "32796"],
+		"enabled": true
+	},
+	"Dunedin": {
+		"postal_codes": ["34697", "34698"],
+		"enabled": true
+	},
+	"Cutler Bay": {
+		"postal_codes": ["33157", "33189"],
+		"enabled": true
+	},
+	"Altamonte Springs": {
+		"postal_codes": ["32701", "32714", "32715"],
+		"enabled": true
+	},
+	"Oakland Park": {
+		"postal_codes": ["33304", "33305", "33306", "33308"],
+		"enabled": true
+	},
+	"North Lauderdale": {
+		"postal_codes": ["33068", "33073", "33093"],
+		"enabled": true
+	},
+	"Winter Garden": {
+		"postal_codes": ["34777", "34778", "34787"],
+		"enabled": true
+	},
+	"Winter Springs": {
+		"postal_codes": ["32708", "32719", "32765", "32779"],
+		"enabled": true
+	},
+	"Oviedo": {
+		"postal_codes": ["32762", "32765", "32766", "32771"],
+		"enabled": true
+	},
+	"Greenacres": {
+		"postal_codes": ["33413", "33415", "33454", "33463"],
+		"enabled": true
+	},
+	"Hallandale Beach": {
+		"postal_codes": ["33008", "33009"],
+		"enabled": true
+	},
+	"Royal Palm Beach": {
+		"postal_codes": ["33411", "33414", "33421", "33470"],
+		"enabled": true
+	},
+	"Palm Springs": {
+		"postal_codes": ["33406", "33461"],
+		"enabled": true
+	},
+	"Lake Worth Corridor": {
+		"postal_codes": ["33460", "33461", "33462", "33463", "33467"],
+		"enabled": true
+	},
+	"Plant City": {
+		"postal_codes": ["33563", "33564", "33565", "33566", "33567"],
+		"enabled": true
+	},
+	"Lauderdale Lakes": {
+		"postal_codes": ["33309", "33311", "33313"],
+		"enabled": true
+	},
+	"Riviera Beach": {
+		"postal_codes": ["33404", "33407", "33410"],
+		"enabled": true
+	},
+	"Miami Lakes": {
+		"postal_codes": ["33014", "33016"],
+		"enabled": true
+	},
+	"Dania Beach": {
+		"postal_codes": ["33004", "33312", "33314"],
+		"enabled": true
+	},
+	"Cooper City": {
+		"postal_codes": ["33024", "33328"],
+		"enabled": true
+	},
+	"Winter Park": {
+		"postal_codes": ["32789", "32790", "32792"],
+		"enabled": true
+	},
+	"Casselberry": {
+		"postal_codes": ["32707", "32718"],
+		"enabled": true
+	},
+	"Boca Del Mar": {
+		"postal_codes": ["33428"],
+		"enabled": true
+	},
+	"Key Biscayne": {
+		"postal_codes": ["33149"],
+		"enabled": true
+	},
+	"North Miami Beach": {
+		"postal_codes": ["33160"],
+		"enabled": true
+	},
+	"North Fort Myers": {
+		"postal_codes": ["33903"],
+		"enabled": true
+	},
+	"Bellview": {
+		"postal_codes": ["32526"],
+		"enabled": true
+	},
+	"Bayonet Point": {
+		"postal_codes": ["34667"],
+		"enabled": true
+	},
+	"Apollo Beach": {
+		"postal_codes": ["33572"],
+		"enabled": true
+	},
+	"Richmond West": {
+		"postal_codes": ["33170"],
+		"enabled": true
+	},
+	"Merritt Island": {
+		"postal_codes": ["32952"],
+		"enabled": true
+	},
+	"The Villages": {
+		"postal_codes": ["32159"],
+		"enabled": true
+	},
+	"North Port": {
+		"postal_codes": ["34286"],
+		"enabled": true
+	},
+	"Riverview": {
+		"postal_codes": ["33569"],
+		"enabled": true
+	},
+	"Estero": {
+		"postal_codes": ["33928"],
+		"enabled": true
+	},
+	"Land O' Lakes": {
+		"postal_codes": ["34638"],
+		"enabled": true
+	},
+	"Meadow Woods": {
+		"postal_codes": ["32824"],
+		"enabled": true
+	},
+	"Winter Springs": {
+		"postal_codes": ["32708"],
+		"enabled": true
+	},
+	"Citrus Park": {
+		"postal_codes": ["33625"],
+		"enabled": true
+	},
+	"University Park": {
+		"postal_codes": ["34201"],
+		"enabled": true
+	},
+	"Wekiwa Springs": {
+		"postal_codes": ["32779"],
+		"enabled": true
+	},
+	"Palm Valley": {
+		"postal_codes": ["32082"],
+		"enabled": true
+	},
+	"Cypress Lake": {
+		"postal_codes": ["33919"],
+		"enabled": true
+	},
+	"Asbury Lake": {
+		"postal_codes": ["32043"],
+		"enabled": true
+	},
+	"Cheval": {
+		"postal_codes": ["33558"],
+		"enabled": true
+	},
+	"Pine Hills": {
+		"postal_codes": ["32808"],
+		"enabled": true
+	},
+	"Immokalee": {
+		"postal_codes": ["34142"],
+		"enabled": true
+	},
+	"Apopka": {
+		"postal_codes": ["32703"],
+		"enabled": true
+	},
+	"Oak Ridge": {
+		"postal_codes": ["32809"],
+		"enabled": true
+	},
+	"Kissimmee": {
+		"postal_codes": ["34741"],
+		"enabled": true
+	},
+	"Conway": {
+		"postal_codes": ["32812"],
+		"enabled": true
+	},
+	"Forest City": {
+		"postal_codes": ["32714"],
+		"enabled": true
+	},
+	"Lockhart": {
+		"postal_codes": ["32810"],
+		"enabled": true
+	},
+	"Golden Glades": {
+		"postal_codes": ["33168"],
+		"enabled": true
+	},
+	"Miami Springs": {
+		"postal_codes": ["33166"],
+		"enabled": true
+	},
+	"Ives Estates": {
+		"postal_codes": ["33179"],
+		"enabled": true
+	},
+	"Bayshore Gardens": {
+		"postal_codes": ["34207"],
+		"enabled": true
+	},
+	"Northdale": {
+		"postal_codes": ["33624"],
+		"enabled": true
+	},
+	"Seminole": {
+		"postal_codes": ["33772"],
+		"enabled": true
+	},
+	"Lutz": {
+		"postal_codes": ["33548"],
+		"enabled": true
+	},
+	"Zephyrhills": {
+		"postal_codes": ["33541"],
+		"enabled": true
+	},
+	"Dunedin": {
+		"postal_codes": ["34698"],
+		"enabled": true
+	},
+	"Haines City": {
+		"postal_codes": ["33844"],
+		"enabled": true
+	},
+	"Wilton Manors": {
+		"postal_codes": ["33305"],
+		"enabled": true
+	},
+	"Stuart": {
+		"postal_codes": ["34994"],
+		"enabled": true
+	},
+	"Venice": {
+		"postal_codes": ["34285"],
+		"enabled": true
+	},
+	"Jensen Beach": {
+		"postal_codes": ["34957"],
+		"enabled": true
+	},
+	"Iona": {
+		"postal_codes": ["33908"],
+		"enabled": true
+	},
+	"Callaway": {
+		"postal_codes": ["32404"],
+		"enabled": true
+	},
+	"Maitland": {
+		"postal_codes": ["32751"],
+		"enabled": true
+	},
+	"Westchester": {
+		"postal_codes": ["33165"],
+		"enabled": true
+	},
+	"Oakland Park": {
+		"postal_codes": ["33309"],
+		"enabled": true
+	},
+	"Winter Haven": {
+		"postal_codes": ["33880"],
+		"enabled": true
+	},
+	"Pace": {
+		"postal_codes": ["32571"],
+		"enabled": true
+	},
+	"Ojus": {
+		"postal_codes": ["33179"],
+		"enabled": true
+	},
+	"Estero": {
+		"postal_codes": ["33928"],
+		"enabled": true
+	},
+	"Fort Walton Beach": {
+		"postal_codes": ["32547"],
+		"enabled": true
+	},
+	"Vero Beach": {
+		"postal_codes": ["32960"],
+		"enabled": true
+	},
+	"Richmond Heights": {
+		"postal_codes": ["33176"],
+		"enabled": true
+	},
+	"Four Corners": {
+		"postal_codes": ["34714"],
+		"enabled": true
+	},
+	"DeBary": {
+		"postal_codes": ["32713"],
+		"enabled": true
+	},
+	"Cocoa Beach": {
+		"postal_codes": ["32931"],
+		"enabled": true
+	},
+	"Lakeside": {
+		"postal_codes": ["32030"],
+		"enabled": true
+	},
+	"Westview": {
+		"postal_codes": ["33167"],
+		"enabled": true
+	},
+	"Fern Park": {
+		"postal_codes": ["32730"],
+		"enabled": true
+	},
+	"Tavares": {
+		"postal_codes": ["32778"],
+		"enabled": true
+	},
+	"Gulf Gate Estates": {
+		"postal_codes": ["34231"],
+		"enabled": true
+	},
+	"Cocoa": {
+		"postal_codes": ["32922"],
+		"enabled": true
+	},
+	"South Miami Heights": {
+		"postal_codes": ["33157"],
+		"enabled": true
+	},
+	"Fruit Cove": {
+		"postal_codes": ["32259"],
+		"enabled": true
+	},
+	"Lake Mary": {
+		"postal_codes": ["32746"],
+		"enabled": true
+	},
+	"Fort Myers Beach": {
+		"postal_codes": ["33931"],
+		"enabled": true
+	},
+	"Mount Dora": {
+		"postal_codes": ["32757"],
+		"enabled": true
+	},
+	"Jupiter": {
+		"postal_codes": ["33458"],
+		"enabled": true
+	},
+	"Coral Gables": {
+		"postal_codes": ["33114"],
+		"enabled": true
+	},
+	"Rockledge": {
+		"postal_codes": ["32955"],
+		"enabled": true
+	},
+	"Holiday": {
+		"postal_codes": ["34690"],
+		"enabled": true
+	},
+	"Auburndale": {
+		"postal_codes": ["33823"],
+		"enabled": true
+	},
+	"North Palm Beach": {
+		"postal_codes": ["33408"],
+		"enabled": true
+	},
+	"DeLand": {
+		"postal_codes": ["32720"],
+		"enabled": true
+	},
+	"Lynn Haven": {
+		"postal_codes": ["32444"],
+		"enabled": true
+	},
+	"Ferry Pass": {
+		"postal_codes": ["32504"],
+		"enabled": true
+	},
+	"Wilton Manors": {
+		"postal_codes": ["33305"],
+		"enabled": true
+	},
+	"Holly Hill": {
+		"postal_codes": ["32117"],
+		"enabled": true
+	},
+	"Lake Magdalene": {
+		"postal_codes": ["33612"],
+		"enabled": true
+	},
+	"Azalea Park": {
+		"postal_codes": ["32807"],
+		"enabled": true
+	},
+	"Palmetto Bay": {
+		"postal_codes": ["33157"],
+		"enabled": true
+	},
+	"Pinecrest": {
+		"postal_codes": ["33156"],
+		"enabled": true
+	},
+	"Dunedin": {
+		"postal_codes": ["34697"],
+		"enabled": true
+	},
+	"Sarasota Springs": {
+		"postal_codes": ["34232"],
+		"enabled": true
+	},
+	"Vero Beach South": {
+		"postal_codes": ["32968"],
+		"enabled": true
+	},
+	"Sebastian": {
+		"postal_codes": ["32958"],
+		"enabled": true
+	},
+	"Lake Butler": {
+		"postal_codes": ["32054"],
+		"enabled": true
+	},
+	"Venice Gardens": {
+		"postal_codes": ["34293"],
+		"enabled": true
+	},
+	"Niceville": {
+		"postal_codes": ["32578"],
+		"enabled": true
+	},
+	"Wekiwa Springs": {
+		"postal_codes": ["32779"],
+		"enabled": true
+	},
+	"Eustis": {
+		"postal_codes": ["32726"],
+		"enabled": true
+	},
+	"Lighthouse Point": {
+		"postal_codes": ["33064"],
+		"enabled": true
+	},
+	"Gulfport": {
+		"postal_codes": ["33707"],
+		"enabled": true
+	},
+	"Palmetto Estates": {
+		"postal_codes": ["33157"],
+		"enabled": true
+	},
+	"Palm City": {
+		"postal_codes": ["34990"],
+		"enabled": true
+	},
+	"Lake Park": {
+		"postal_codes": ["33403"],
+		"enabled": true
+	},
+	"Siesta Key": {
+		"postal_codes": ["34242"],
+		"enabled": true
+	},
+	"Niceville": {
+		"postal_codes": ["32578"],
+		"enabled": true
+	},
+	"Palm River-Clair Mel": {
+		"postal_codes": ["33619"],
+		"enabled": true
+	},
+	"Thonotosassa": {
+		"postal_codes": ["33592"],
+		"enabled": true
+	},
+	"Tavares": {
+		"postal_codes": ["32778"],
+		"enabled": true
+	},
+	"Safety Harbor": {
+		"postal_codes": ["34695"],
+		"enabled": true
+	},
+	"Callaway": {
+		"postal_codes": ["32404"],
+		"enabled": true
+	},
+	"Hobe Sound": {
+		"postal_codes": ["33455"],
+		"enabled": true
+	},
+	"Saint Augustine": {
+		"postal_codes": ["32084"],
+		"enabled": true
+	},
+	"Jasmine Estates": {
+		"postal_codes": ["34668"],
+		"enabled": true
+	},
+	"Atlantic Beach": {
+		"postal_codes": ["32233"],
+		"enabled": true
+	},
+	"St. Augustine South": {
+		"postal_codes": ["32086"],
+		"enabled": true
+	},
+	"Zephyrhills South": {
+		"postal_codes": ["33541"],
+		"enabled": true
+	},
+	"Zephyrhills West": {
+		"postal_codes": ["33542"],
+		"enabled": true
+	},
+	"Sandalfoot Cove": {
+		"postal_codes": ["33433"],
+		"enabled": true
+	},
+	"Lake Mary": {
+		"postal_codes": ["32746"],
+		"enabled": true
+	},
+	"Gladeview": {
+		"postal_codes": ["33147"],
+		"enabled": true
+	},
+	"Westchase": {
+		"postal_codes": ["33626"],
+		"enabled": true
+	},
+	"South Venice": {
+		"postal_codes": ["34293"],
+		"enabled": true
+	},
+	"Tampa": {
+		"postal_codes": ["33602"],
+		"enabled": true
+	},
+	"Dunedin": {
+		"postal_codes": ["34698"],
+		"enabled": true
+	},
+	"Winston": {
+		"postal_codes": ["33598"],
+		"enabled": true
+	},
+	"Englewood": {
+		"postal_codes": ["34223"],
+		"enabled": true
+	},
+	"Lutz": {
+		"postal_codes": ["33548"],
+		"enabled": true
+	},
+	"Dunedin": {
+		"postal_codes": ["34697"],
+		"enabled": true
+	},
+	"Bellair-Meadowbrook Terrace": {
+		"postal_codes": ["32073"],
+		"enabled": true
+	},
+	"South Bradenton": {
+		"postal_codes": ["34205"],
+		"enabled": true
+	},
+	"Immokalee": {
+		"postal_codes": ["34142"],
+		"enabled": true
+	},
+	"Cocoa": {
+		"postal_codes": ["32922"],
+		"enabled": true
+	},
+	"Sun City Center": {
+		"postal_codes": ["33573"],
+		"enabled": true
+	},
+	"Sunrise": {
+		"postal_codes": ["33313"],
+		"enabled": true
+	},
+	"Eustis": {
+		"postal_codes": ["32726"],
+		"enabled": true
+	},
+	"Dunedin": {
+		"postal_codes": ["34698"],
+		"enabled": true
+	},
+	"Haines City": {
+		"postal_codes": ["33844"],
+		"enabled": true
+	},
+	"Wilton Manors": {
+		"postal_codes": ["33305"],
+		"enabled": true
+	},
+	"Stuart": {
+		"postal_codes": ["34994"],
+		"enabled": true
+	},
+	"Venice": {
+		"postal_codes": ["34285"],
+		"enabled": true
+	},
+	"Jensen Beach": {
+		"postal_codes": ["34957"],
+		"enabled": true
+	},
+	"Iona": {
+		"postal_codes": ["33908"],
+		"enabled": true
+	},
+	"Callaway": {
+		"postal_codes": ["32404"],
+		"enabled": true
+	},
+	"Maitland": {
+		"postal_codes": ["32751"],
+		"enabled": true
+	},
+	"Westchester": {
+		"postal_codes": ["33165"],
+		"enabled": true
+	},
+	"Oakland Park": {
+		"postal_codes": ["33309"],
+		"enabled": true
+	},
+	"Winter Haven": {
+		"postal_codes": ["33880"],
+		"enabled": true
+	},
+	"Pace": {
+		"postal_codes": ["32571"],
+		"enabled": true
+	},
+	"Ojus": {
+		"postal_codes": ["33179"],
+		"enabled": true
+	},
+	"Estero": {
+		"postal_codes": ["33928"],
+		"enabled": true
+	},
+	"Fort Walton Beach": {
+		"postal_codes": ["32547"],
+		"enabled": true
+	},
+	"Vero Beach": {
+		"postal_codes": ["32960"],
+		"enabled": true
+	},
+	"Richmond Heights": {
+		"postal_codes": ["33176"],
+		"enabled": true
+	},
+	"Four Corners": {
+		"postal_codes": ["34714"],
+		"enabled": true
+	},
+	"DeBary": {
+		"postal_codes": ["32713"],
+		"enabled": true
+	},
+	"Cocoa Beach": {
+		"postal_codes": ["32931"],
+		"enabled": true
+	},
+	"Lakeside": {
+		"postal_codes": ["32030"],
+		"enabled": true
+	},
+	"Westview": {
+		"postal_codes": ["33167"],
+		"enabled": true
+	},
+	"Fern Park": {
+		"postal_codes": ["32730"],
+		"enabled": true
+	},
+	"Tavares": {
+		"postal_codes": ["32778"],
+		"enabled": true
+	},
+	"Gulf Gate Estates": {
+		"postal_codes": ["34231"],
+		"enabled": true
+	},
+	"Cocoa": {
+		"postal_codes": ["32922"],
+		"enabled": true
+	},
+	"South Miami Heights": {
+		"postal_codes": ["33157"],
+		"enabled": true
+	},
+	"Fruit Cove": {
+		"postal_codes": ["32259"],
+		"enabled": true
+	},
+	"Lake Mary": {
+		"postal_codes": ["32746"],
+		"enabled": true
+	},
+	"Fort Myers Beach": {
+		"postal_codes": ["33931"],
+		"enabled": true
+	},
+	"Mount Dora": {
+		"postal_codes": ["32757"],
+		"enabled": true
+	},
+	"Jupiter": {
+		"postal_codes": ["33458"],
+		"enabled": true
+	},
+	"Coral Gables": {
+		"postal_codes": ["33114"],
+		"enabled": true
+	},
+	"Rockledge": {
+		"postal_codes": ["32955"],
+		"enabled": true
+	},
+	"Holiday": {
+		"postal_codes": ["34690"],
+		"enabled": true
+	},
+	"Auburndale": {
+		"postal_codes": ["33823"],
+		"enabled": true
+	},
+	"North Palm Beach": {
+		"postal_codes": ["33408"],
+		"enabled": true
+	},
+	"DeLand": {
+		"postal_codes": ["32720"],
+		"enabled": true
+	},
+	"Lynn Haven": {
+		"postal_codes": ["32444"],
+		"enabled": true
+	},
+	"Ferry Pass": {
+		"postal_codes": ["32504"],
+		"enabled": true
+	},
+	"Wilton Manors": {
+		"postal_codes": ["33305"],
+		"enabled": true
+	},
+	"Holly Hill": {
+		"postal_codes": ["32117"],
+		"enabled": true
+	},
+	"Lake Magdalene": {
+		"postal_codes": ["33612"],
+		"enabled": true
+	},
+	"Azalea Park": {
+		"postal_codes": ["32807"],
+		"enabled": true
+	},
+	"Palmetto Bay": {
+		"postal_codes": ["33157"],
+		"enabled": true
+	},
+	"Pinecrest": {
+		"postal_codes": ["33156"],
+		"enabled": true
+	},
+	"Dunedin": {
+		"postal_codes": ["34697"],
+		"enabled": true
+	},
+	"Sarasota Springs": {
+		"postal_codes": ["34232"],
+		"enabled": true
+	},
+	"Vero Beach South": {
+		"postal_codes": ["32968"],
+		"enabled": true
+	},
+	"Sebastian": {
+		"postal_codes": ["32958"],
+		"enabled": true
+	},
+	"Lake Butler": {
+		"postal_codes": ["32054"],
+		"enabled": true
+	},
+	"Venice Gardens": {
+		"postal_codes": ["34293"],
+		"enabled": true
+	},
+	"Niceville": {
+		"postal_codes": ["32578"],
+		"enabled": true
+	},
+	"Wekiwa Springs": {
+		"postal_codes": ["32779"],
+		"enabled": true
+	},
+	"Eustis": {
+		"postal_codes": ["32726"],
+		"enabled": true
+	},
+	"Lighthouse Point": {
+		"postal_codes": ["33064"],
+		"enabled": true
+	},
+	"Gulfport": {
+		"postal_codes": ["33707"],
+		"enabled": true
+	},
+	"Palmetto Estates": {
+		"postal_codes": ["33157"],
+		"enabled": true
+	},
+	"Palm City": {
+		"postal_codes": ["34990"],
+		"enabled": true
+	},
+	"Lake Park": {
+		"postal_codes": ["33403"],
+		"enabled": true
+	},
+	"Siesta Key": {
+		"postal_codes": ["34242"],
+		"enabled": true
+	},
+	"Niceville": {
+		"postal_codes": ["32578"],
+		"enabled": true
+	},
+	"Palm River-Clair Mel": {
+		"postal_codes": ["33619"],
+		"enabled": true
+	},
+	"Thonotosassa": {
+		"postal_codes": ["33592"],
+		"enabled": true
+	},
+	"Tavares": {
+		"postal_codes": ["32778"],
+		"enabled": true
+	},
+	"Safety Harbor": {
+		"postal_codes": ["34695"],
+		"enabled": true
+	},
+	"Callaway": {
+		"postal_codes": ["32404"],
+		"enabled": true
+	},
+	"Hobe Sound": {
+		"postal_codes": ["33455"],
+		"enabled": true
+	},
+	"Saint Augustine": {
+		"postal_codes": ["32084"],
+		"enabled": true
+	},
+	"Jasmine Estates": {
+		"postal_codes": ["34668"],
+		"enabled": true
+	},
+	"Atlantic Beach": {
+		"postal_codes": ["32233"],
+		"enabled": true
+	},
+	"St. Augustine South": {
+		"postal_codes": ["32086"],
+		"enabled": true
+	},
+	"Zephyrhills South": {
+		"postal_codes": ["33541"],
+		"enabled": true
+	},
+	"Zephyrhills West": {
+		"postal_codes": ["33542"],
+		"enabled": true
+	},
+	"Sandalfoot Cove": {
+		"postal_codes": ["33433"],
+		"enabled": true
+	},
+	"Lake Mary": {
+		"postal_codes": ["32746"],
+		"enabled": true
+	},
+	"Gladeview": {
+		"postal_codes": ["33147"],
+		"enabled": true
+	},
+	"Westchase": {
+		"postal_codes": ["33626"],
+		"enabled": true
+	},
+	"South Venice": {
+		"postal_codes": ["34293"],
+		"enabled": true
+	},
+	"Tampa": {
+		"postal_codes": ["33602"],
+		"enabled": true
+	},
+	"Dunedin": {
+		"postal_codes": ["34698"],
+		"enabled": true
+	},
+	"Winston": {
+		"postal_codes": ["33598"],
+		"enabled": true
+	},
+	"Englewood": {
+		"postal_codes": ["34223"],
+		"enabled": true
+	},
+	"Lutz": {
+		"postal_codes": ["33548"],
+		"enabled": true
+	},
+	"Dunedin": {
+		"postal_codes": ["34697"],
+		"enabled": true
+	},
+	"Bellair-Meadowbrook Terrace": {
+		"postal_codes": ["32073"],
+		"enabled": true
+	},
+	"South Bradenton": {
+		"postal_codes": ["34205"],
+		"enabled": true
+	},
+	"Immokalee": {
+		"postal_codes": ["34142"],
+		"enabled": true
+	},
+	"Cocoa": {
+		"postal_codes": ["32922"],
+		"enabled": true
+	},
+	"Sun City Center": {
+		"postal_codes": ["33573"],
+		"enabled": true
+	},
+	"Sunrise": {
+		"postal_codes": ["33313"],
+		"enabled": true
+	},
+	"Eustis": {
+		"postal_codes": ["32726"],
+		"enabled": true
+	},
+	"Dunedin": {
+		"postal_codes": ["34698"],
+		"enabled": true
+	},
+	"Haines City": {
+		"postal_codes": ["33844"],
+		"enabled": true
+	},
+	"Wilton Manors": {
+		"postal_codes": ["33305"],
+		"enabled": true
+	},
+	"Stuart": {
+		"postal_codes": ["34994"],
+		"enabled": true
+	},
+	"Venice": {
+		"postal_codes": ["34285"],
+		"enabled": true
+	},
+	"Jensen Beach": {
+		"postal_codes": ["34957"],
+		"enabled": true
+	},
+	"Iona": {
+		"postal_codes": ["33908"],
+		"enabled": true
+	},
+	"Callaway": {
+		"postal_codes": ["32404"],
+		"enabled": true
+	},
+	"Maitland": {
+		"postal_codes": ["32751"],
+		"enabled": true
+	},
+	"Westchester": {
+		"postal_codes": ["33165"],
+		"enabled": true
+	},
+	"Oakland Park": {
+		"postal_codes": ["33309"],
+		"enabled": true
+	},
+	"Winter Haven": {
+		"postal_codes": ["33880"],
+		"enabled": true
+	},
+	"Pace": {
+		"postal_codes": ["32571"],
+		"enabled": true
+	},
+	"Ojus": {
+		"postal_codes": ["33179"],
+		"enabled": true
+	},
+	"Estero": {
+		"postal_codes": ["33928"],
+		"enabled": true
+	},
+	"Fort Walton Beach": {
+		"postal_codes": ["32547"],
+		"enabled": true
+	},
+	"Vero Beach": {
+		"postal_codes": ["32960"],
+		"enabled": true
+	},
+	"Richmond Heights": {
+		"postal_codes": ["33176"],
+		"enabled": true
+	},
+	"Four Corners": {
+		"postal_codes": ["34714"],
+		"enabled": true
+	},
+	"DeBary": {
+		"postal_codes": ["32713"],
+		"enabled": true
+	},
+	"Cocoa Beach": {
+		"postal_codes": ["32931"],
+		"enabled": true
+	},
+	"Lakeside": {
+		"postal_codes": ["32030"],
+		"enabled": true
+	},
+	"Westview": {
+		"postal_codes": ["33167"],
+		"enabled": true
+	},
+	"Fern Park": {
+		"postal_codes": ["32730"],
+		"enabled": true
+	},
+	"Tavares": {
+		"postal_codes": ["32778"],
+		"enabled": true
+	},
+	"Gulf Gate Estates": {
+		"postal_codes": ["34231"],
+		"enabled": true
+	},
+	"Cocoa": {
+		"postal_codes": ["32922"],
+		"enabled": true
+	},
+	"South Miami Heights": {
+		"postal_codes": ["33157"],
+		"enabled": true
+	},
+	"Fruit Cove": {
+		"postal_codes": ["32259"],
+		"enabled": true
+	},
+	"Lake Mary": {
+		"postal_codes": ["32746"],
+		"enabled": true
+	},
+	"Fort Myers Beach": {
+		"postal_codes": ["33931"],
+		"enabled": true
+	},
+	"Mount Dora": {
+		"postal_codes": ["32757"],
+		"enabled": true
+	},
+	"Jupiter": {
+		"postal_codes": ["33458"],
+		"enabled": true
+	},
+	"Coral Gables": {
+		"postal_codes": ["33114"],
+		"enabled": true
+	},
+	"Rockledge": {
+		"postal_codes": ["32955"],
+		"enabled": true
+	},
+	"Holiday": {
+		"postal_codes": ["34690"],
+		"enabled": true
+	},
+	"Auburndale": {
+		"postal_codes": ["33823"],
+		"enabled": true
+	},
+	"North Palm Beach": {
+		"postal_codes": ["33408"],
+		"enabled": true
+	},
+	"DeLand": {
+		"postal_codes": ["32720"],
+		"enabled": true
+	},
+	"Lynn Haven": {
+		"postal_codes": ["32444"],
+		"enabled": true
+	},
+	"Ferry Pass": {
+		"postal_codes": ["32504"],
+		"enabled": true
+	},
+	"Wilton Manors": {
+		"postal_codes": ["33305"],
+		"enabled": true
+	},
+	"Holly Hill": {
+		"postal_codes": ["32117"],
+		"enabled": true
+	},
+	"Lake Magdalene": {
+		"postal_codes": ["33612"],
+		"enabled": true
+	},
+	"Azalea Park": {
+		"postal_codes": ["32807"],
+		"enabled": true
+	},
+	"Palmetto Bay": {
+		"postal_codes": ["33157"],
+		"enabled": true
+	},
+	"Pinecrest": {
+		"postal_codes": ["33156"],
+		"enabled": true
+	},
+	"Dunedin": {
+		"postal_codes": ["34697"],
+		"enabled": true
+	},
+	"Sarasota Springs": {
+		"postal_codes": ["34232"],
+		"enabled": true
+	},
+	"Vero Beach South": {
+		"postal_codes": ["32968"],
+		"enabled": true
+	},
+	"Sebastian": {
+		"postal_codes": ["32958"],
+		"enabled": true
+	},
+	"Lake Butler": {
+		"postal_codes": ["32054"],
+		"enabled": true
+	},
+	"Venice Gardens": {
+		"postal_codes": ["34293"],
+		"enabled": true
+	},
+	"Niceville": {
+		"postal_codes": ["32578"],
+		"enabled": true
+	},
+	"Wekiwa Springs": {
+		"postal_codes": ["32779"],
+		"enabled": true
+	},
+	"Eustis": {
+		"postal_codes": ["32726"],
+		"enabled": true
+	},
+	"Lighthouse Point": {
+		"postal_codes": ["33064"],
+		"enabled": true
+	},
+	"Gulfport": {
+		"postal_codes": ["33707"],
+		"enabled": true
+	},
+	"Palmetto Estates": {
+		"postal_codes": ["33157"],
+		"enabled": true
+	},
+	"Palm City": {
+		"postal_codes": ["34990"],
+		"enabled": true
+	},
+	"Lake Park": {
+		"postal_codes": ["33403"],
+		"enabled": true
+	},
+	"Siesta Key": {
+		"postal_codes": ["34242"],
+		"enabled": true
+	},
+	"Niceville": {
+		"postal_codes": ["32578"],
+		"enabled": true
+	},
+	"Palm River-Clair Mel": {
+		"postal_codes": ["33619"],
+		"enabled": true
+	},
+	"Thonotosassa": {
+		"postal_codes": ["33592"],
+		"enabled": true
+	},
+	"Tavares": {
+		"postal_codes": ["32778"],
+		"enabled": true
+	},
+	"Safety Harbor": {
+		"postal_codes": ["34695"],
+		"enabled": true
+	},
+	"Callaway": {
+		"postal_codes": ["32404"],
+		"enabled": true
+	},
+	"Hobe Sound": {
+		"postal_codes": ["33455"],
+		"enabled": true
+	},
+	"Saint Augustine": {
+		"postal_codes": ["32084"],
+		"enabled": true
+	},
+	"Jasmine Estates": {
+		"postal_codes": ["34668"],
+		"enabled": true
+	},
+	"Atlantic Beach": {
+		"postal_codes": ["32233"],
+		"enabled": true
+	},
+	"St. Augustine South": {
+		"postal_codes": ["32086"],
+		"enabled": true
+	},
+	"Zephyrhills South": {
+		"postal_codes": ["33541"],
+		"enabled": true
+	},
+	"Zephyrhills West": {
+		"postal_codes": ["33542"],
+		"enabled": true
+	},
+	"Sandalfoot Cove": {
+		"postal_codes": ["33433"],
+		"enabled": true
+	},
+	"Lake Mary": {
+		"postal_codes": ["32746"],
+		"enabled": true
+	},
+	"Gladeview": {
+		"postal_codes": ["33147"],
+		"enabled": true
+	},
+	"Westchase": {
+		"postal_codes": ["33626"],
+		"enabled": true
+	},
+	"South Venice": {
+		"postal_codes": ["34293"],
+		"enabled": true
+	},
+	"Tampa": {
+		"postal_codes": ["33602"],
+		"enabled": true
+	},
+	"Dunedin": {
+		"postal_codes": ["34698"],
+		"enabled": true
+	},
+	"Winston": {
+		"postal_codes": ["33598"],
+		"enabled": true
+	},
+	"Englewood": {
+		"postal_codes": ["34223"],
+		"enabled": true
+	},
+	"Lutz": {
+		"postal_codes": ["33548"],
+		"enabled": true
+	},
+	"Dunedin": {
+		"postal_codes": ["34697"],
+		"enabled": true
+	},
+	"Bellair-Meadowbrook Terrace": {
+		"postal_codes": ["32073"],
+		"enabled": true
+	},
+	"South Bradenton": {
+		"postal_codes": ["34205"],
+		"enabled": true
+	},
+	"Immokalee": {
+		"postal_codes": ["34142"],
+		"enabled": true
+	},
+	"Cocoa": {
+		"postal_codes": ["32922"],
+		"enabled": true
+	},
+	"Sun City Center": {
+		"postal_codes": ["33573"],
+		"enabled": true
+	},
+	"Sunrise": {
+		"postal_codes": ["33313"],
+		"enabled": true
+	},
+	"Eustis": {
+		"postal_codes": ["32726"],
+		"enabled": true
+	},
+	"Dunedin": {
+		"postal_codes": ["34698"],
+		"enabled": true
+	},
+	"Haines City": {
+		"postal_codes": ["33844"],
+		"enabled": true
+	},
+	"Wilton Manors": {
+		"postal_codes": ["33305"],
+		"enabled": true
+	},
+	"Stuart": {
+		"postal_codes": ["34994"],
+		"enabled": true
+	},
+	"Venice": {
+		"postal_codes": ["34285"],
+		"enabled": true
+	},
+	"Jensen Beach": {
+		"postal_codes": ["34957"],
+		"enabled": true
+	},
+	"Iona": {
+		"postal_codes": ["33908"],
+		"enabled": true
+	},
+	"Callaway": {
+		"postal_codes": ["32404"],
+		"enabled": true
+	},
+	"Maitland": {
+		"postal_codes": ["32751"],
+		"enabled": true
+	},
+	"Westchester": {
+		"postal_codes": ["33165"],
+		"enabled": true
+	},
+	"Oakland Park": {
+		"postal_codes": ["33309"],
+		"enabled": true
+	},
+	"Winter Haven": {
+		"postal_codes": ["33880"],
+		"enabled": true
+	},
+	"Pace": {
+		"postal_codes": ["32571"],
+		"enabled": true
+	},
+	"Ojus": {
+		"postal_codes": ["33179"],
+		"enabled": true
+	},
+	"Estero": {
+		"postal_codes": ["33928"],
+		"enabled": true
+	},
+	"Fort Walton Beach": {
+		"postal_codes": ["32547"],
+		"enabled": true
+	},
+	"Vero Beach": {
+		"postal_codes": ["32960"],
+		"enabled": true
+	},
+	"Richmond Heights": {
+		"postal_codes": ["33176"],
+		"enabled": true
+	},
+	"Four Corners": {
+		"postal_codes": ["34714"],
+		"enabled": true
+	},
+	"DeBary": {
+		"postal_codes": ["32713"],
+		"enabled": true
+	},
+	"Cocoa Beach": {
+		"postal_codes": ["32931"],
+		"enabled": true
+	},
+	"Lakeside": {
+		"postal_codes": ["32030"],
+		"enabled": true
+	},
+	"Westview": {
+		"postal_codes": ["33167"],
+		"enabled": true
+	},
+	"Fern Park": {
+		"postal_codes": ["32730"],
+		"enabled": true
+	},
+	"Tavares": {
+		"postal_codes": ["32778"],
+		"enabled": true
+	},
+	"Gulf Gate Estates": {
+		"postal_codes": []
+	}
+}
